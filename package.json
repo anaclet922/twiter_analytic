@@ -1,0 +1,20 @@
+{
+  "name": "twitter_analytic",
+  "version": "1.0.0",
+  "description": "\"# twiter_analytic\"",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon index.js"
+  },
+  "author": "Anaclet Ahishakiye",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "moment": "^2.29.4",
+    "mysql2": "^3.6.5",
+    "mysql2-promise": "^0.1.4",
+    "nodemon": "^3.0.2",
+    "threads": "^1.7.0"
+  }
+}

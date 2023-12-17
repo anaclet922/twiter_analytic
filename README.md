@@ -11,6 +11,7 @@ Make sure you have the following software installed on your machine:
 - [Node.js](https://nodejs.org/)
 - [npm](https://www.npmjs.com/) (Node Package Manager)
 - [MySQL](https://www.mysql.com/)
+- [Reference_File](https://github.com/anaclet922/twiter_analytic/releases/tag/refence_file)
 
 ### Set Up MySQL
 

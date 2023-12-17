@@ -16,6 +16,8 @@ Make sure you have the following software installed on your machine:
 
 1. Install MySQL on your machine.
 
+    ```If you don't have time to run extrat route, import db_twitter.sql```
+
 2. Create a new database and user for the application.
 
    ```sql
@@ -26,3 +28,9 @@ Make sure you have the following software installed on your machine:
 
 ## Install Dependencies and Run the App
 git clone https://github.com/anaclet922/twiter_analytic.git && cd twiter_analytic && npm install && npm start
+
+## Routes
+
+1. /test (to test if server is reacheable)
+2. /delete_all (to delete all data in database; if you want to run more extract route or you get new reference file)
+3. /q2 (with some query paramaters to get users recommendation)

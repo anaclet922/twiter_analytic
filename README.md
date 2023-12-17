@@ -31,6 +31,6 @@ git clone https://github.com/anaclet922/twiter_analytic.git && cd twiter_analyti
 
 ## Routes
 
-1. /test (to test if server is reacheable)
-2. /delete_all (to delete all data in database; if you want to run more extract route or you get new reference file)
-3. /q2 (with some query paramaters to get users recommendation)
+1. ```/test``` (to test if server is reacheable)
+2. ```/delete_all``` (to delete all data in database; if you want to run more extract route or you get new reference file)
+3. ```/q2 (with some``` query paramaters to get users recommendation)

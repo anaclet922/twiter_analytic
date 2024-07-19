@@ -28,7 +28,10 @@ Make sure you have the following software installed on your machine:
    FLUSH PRIVILEGES;
 
 ## Install Dependencies and Run the App
-git clone https://github.com/anaclet922/twiter_analytic.git && cd twiter_analytic && npm install && npm start
+1. git clone https://github.com/anaclet922/twiter_analytic.git
+2. cd twiter_analytic
+3. npm install
+4. npm run devStart (devStart is defined in package.json)
 
 ## Routes
 
